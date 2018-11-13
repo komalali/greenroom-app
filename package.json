@@ -1,0 +1,23 @@
+{
+  "name": "greenroom-app",
+  "version": "1.0.0",
+  "description": "An API for the greenroom app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/komalali/greenroom-app.git"
+  },
+  "keywords": [
+    "plant",
+    "journal"
+  ],
+  "author": "Komal Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/komalali/greenroom-app/issues"
+  },
+  "homepage": "https://github.com/komalali/greenroom-app#readme"
+}
