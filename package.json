@@ -19,5 +19,20 @@
   "bugs": {
     "url": "https://github.com/komalali/greenroom-app/issues"
   },
-  "homepage": "https://github.com/komalali/greenroom-app#readme"
+  "homepage": "https://github.com/komalali/greenroom-app#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-watch": "^2.0.7",
+    "eslint": "^5.9.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "uuid": "^3.3.2"
+  }
 }
